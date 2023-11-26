@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AR Dispositivos Moveis</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="botao_main">Ir</string>
+    <string name="menu_opcao_um">Perfil</string>
+    <string name="menu_opcao_sobre">Sobre</string>
+    <string name="voltar">Voltar</string>
+    <string name="NomePerfil">Nome: Felipe</string>
+    <string name="SobrenomePerfil">Sobrenome: Amais</string>
+    <string name="RA">RA: 09031128</string>
+    <string name="sobre">Este protópito foi desenvolvido apenas como objeto de estudo, possuindo apenas algumas funções básicas conforme foi pedido.</string>
+</resources>
